@@ -14,7 +14,7 @@ This engine features
 ## Optimizations
 I was able to optimize this engine with Multithreaded Tiled Rendering, using OpenMP for the multithreading.
 ## Screenshots
-![Utah Teapot](https://i.imgur.com/zQ2a7PU.png)
+![Utah Teapot](https://i.imgur.com/ZounjM0.png)
 ![House](https://i.imgur.com/vJKCq0t.png)
 ## Building
 You can build it by downloading the source files and compiling it or you can download the already compiled builds in the builds folder that comes with a test scene.
