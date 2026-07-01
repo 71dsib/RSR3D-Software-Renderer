@@ -24,9 +24,6 @@ namespace render{
         float x, y, z, u, v;
     };
 
-    vectorFunctions::Vector3D subtract3D(const render::Point3D& v0, const render::Point3D& v1);// I could not put this in vector functions (it needed Point3D) so I'm temporarily leaving this here //
-    vectorFunctions::Vector3D subtract3D(const vectorFunctions::Vector3D& v0, const vectorFunctions::Vector3D& v1);
-
     // Render Variables //
     const unsigned short int screenW {1920};
     const unsigned short int screenH {1080};
