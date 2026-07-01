@@ -20,8 +20,11 @@ I was able to optimize this engine with Multithreaded Tiled Rendering, using Ope
 You can build it by downloading the source files and compiling it or you can download the already compiled builds in the builds folder that comes with a test scene.
 ## Resources
 Rasterization - https://jtsorlinis.github.io/rendering-tutorial/
+
 Shadow Acne Removal Method - https://www.reddit.com/r/GraphicsProgramming/comments/1oyeer3/bias_free_shadow_mapping_removing_shadow/
+
 FXAA - https://catlikecoding.com/unity/tutorials/custom-srp/fxaa/
+
 ## FAQs
 **Why did I do this?**  
 - I did this to understand how a computer is able to run 3D graphics.  
